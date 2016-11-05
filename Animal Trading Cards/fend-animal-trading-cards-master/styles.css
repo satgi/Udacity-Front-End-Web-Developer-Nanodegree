@@ -1,0 +1,35 @@
+#card {
+	width: 320px;
+}
+
+.bordered-box {
+	padding: 10px;
+	border: 1px solid #dfdfdf;
+	border-radius: 3px;
+}
+
+#name {
+	padding: 10px 0;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+img {
+	padding: 10px 0;
+	max-width: 100%;
+}
+
+.information {
+	background: #fff;
+}
+
+ul {
+	list-style: none;
+	-webkit-padding-start: 0;
+}
+
+.item-label {
+	font-weight: bold;
+}
